@@ -1,0 +1,44 @@
+.wishlist-thanks {
+	border: 1px solid #4E9A3A;
+	padding: 5px;
+	color: #4E9A3A;
+	margin-bottom: 20px;
+}
+
+.wishlist-item, 
+.wishlist-hr {
+	clear: both;
+}
+
+.wishlist-image-form {
+	float: right;
+	width: 50%; 
+	padding-bottom: 20px;
+}
+
+.wishlist-image-form img {
+	padding: 5px;
+	width: 200px; 
+	height: auto;
+}
+
+.wishlist-promised {
+	font-weight: bold;
+}
+
+.wishlist-label,
+.wishlist-form-label {
+	font-weight: bold;
+}
+
+.wishlist-form table {
+	border-collapse: collapse;
+}
+
+.wishlist-form-submit-button {
+	text-align: center;
+}
+
+td.wishlist-double-span {
+	text-align: center;
+}

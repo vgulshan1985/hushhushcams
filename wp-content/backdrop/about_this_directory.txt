@@ -1,0 +1,3 @@
+This directory is created by the Backdrop plugin to store your generated CSS and JS files in a location safe from plugin upgrades.
+
+If you are no longer using Backdrop you can safely remove this directory.
