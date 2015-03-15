@@ -1,0 +1,117 @@
+@charset "utf-8";
+
+#fsbg {
+	margin: 0px;
+	padding: 0px;
+	width: 100%;
+	border-top-width: 0px;
+	border-right-width: 0px;
+	border-bottom-width: 0px;
+	border-left-width: 0px;
+	border-top-style: solid;
+	border-right-style: solid;
+	border-bottom-style: solid;
+	border-left-style: solid;
+	position: fixed;
+	z-index: -200;
+	height: auto;
+	left: 0px;
+	top: 0px;
+	min-height: 100%;
+	min-width: 1040px;
+	text-align:center;
+    }
+#Container {
+	background-color: transparent;
+	width: 1040px;
+	border-width: 0px;
+	border-style: solid;
+	height: 1000px;
+	left: auto;
+	
+	
+}
+#Header {
+	background-color: transparent;
+	margin: 0px;
+	padding: 0px;
+	width: 1040px;
+	border-width: 0px;
+	border-style: solid;
+	
+}
+#Nav {
+	background-color: #B82224;
+	margin: 0px;
+	padding: 0px;
+	height: 50px;
+	width: 1040px;
+	border-width: 0px;
+	border-style: solid;
+	left: auto;
+	
+}
+#Body {
+	background-color: transparent;
+	margin: 0px;
+	padding: 0px;
+	width: 1040px;
+	border-width: 0px;
+	border-style: solid;
+	height: 850px;
+	
+}
+#Footer {
+	background-color: #F7E5E6;
+	margin: 0px;
+	padding: 0px;
+	height: 100px;
+	width: 1040px;
+	border-width: 0px;
+	border-style: solid;
+	
+}
+#Menu {
+	background-color: #E2E2F7;
+	margin: 0px;
+	padding: 0px;
+	height: 400px;
+	width: 200px;
+	border-width: 0px;
+	border-style: solid;
+	position: absolute;
+	filter: alpha(opacity=60);
+}
+#menu2 {
+	background-color: #CD4C4E;
+	margin: 0px;
+	padding: 0px;
+	height: 400px;
+	width: 200px;
+	position: absolute;
+	top: 600px;
+}
+#Livestream {
+	background-color: #CF2528;
+	margin: 0px;
+	padding: 0px;
+	height: 494px;
+	width: 810px;
+	border-width: 0px;
+	border-style: solid;
+	position: absolute;
+	left: 225px;
+	top: 185px;
+}
+#Chatwindow {
+	background-color: #5EDC39;
+	margin: 0px;
+	padding: 0px;
+	height: 300px;
+	width: 810px;
+	border-width: 0px;
+	border-style: solid;
+	position: absolute;
+	left: 225px;
+	top: 700px;
+}

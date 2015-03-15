@@ -1,0 +1,12 @@
+# BEGIN s2Member GZIP exclusions
+<IfModule rewrite_module>
+	RewriteEngine On
+	RewriteBase /site/
+	RewriteCond %{QUERY_STRING} (^|\?|&)s2member_file_download\=.+ [OR]
+	RewriteCond %{QUERY_STRING} (^|\?|&)no-gzip\=1
+	RewriteRule .* - [E=no-gzip:1]
+</IfModule>
+# END s2Member GZIP exclusions
+# BEGIN WordPress
+
+# END WordPress

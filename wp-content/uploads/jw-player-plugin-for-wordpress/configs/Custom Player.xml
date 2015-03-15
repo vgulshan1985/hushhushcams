@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<config>
+<icons>true</icons>
+<backcolor></backcolor>
+<frontcolor></frontcolor>
+<lightcolor></lightcolor>
+<screencolor></screencolor>
+<item>0</item>
+<playlist.position>none</playlist.position>
+<playlistsize>180</playlistsize>
+<repeat>none</repeat>
+<shuffle>false</shuffle>
+<bufferlength>1</bufferlength>
+<smoothing>true</smoothing>
+<stretching>uniform</stretching>
+<wmode>opaque</wmode>
+<mute>false</mute>
+<volume>90</volume>
+<provider></provider>
+<streamer></streamer>
+<controlbar>bottom</controlbar>
+<dock>false</dock>
+<autostart>false</autostart>
+<height>300</height>
+<width>600</width>
+<plugins>ltas,</plugins>
+</config>

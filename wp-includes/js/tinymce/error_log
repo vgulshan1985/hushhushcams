@@ -1,0 +1,10 @@
+[07-Mar-2015 23:40:21 UTC] PHP Warning:  PHP Startup: phpSHIELD: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[08-Mar-2015 15:41:46 UTC] PHP Warning:  PHP Startup: phpSHIELD: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0

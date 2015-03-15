@@ -1,0 +1,6 @@
+[08-Mar-2015 18:54:54 UTC] PHP Warning:  PHP Startup: phpSHIELD: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[08-Mar-2015 18:54:54 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/amgiacov/public_html/wp-content/themes/twentyfourteen/index.php on line 17
